@@ -22,6 +22,9 @@
         echo "</ul>";
 
         echo '<p>Esta es toda' . ' la pagina web.</p>';
+
+        //Imprime el sistema operativo el cual esta usando el cliente
+        echo PHP_OS;
     ?>
 </body>
 </html>
